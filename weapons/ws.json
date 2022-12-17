@@ -1,0 +1,7 @@
+{
+    "name" : "World Savior",
+    "price" : 5000000,
+    "weight" : 58,
+    "size" : 70,
+    "damage" : [1,100]
+}

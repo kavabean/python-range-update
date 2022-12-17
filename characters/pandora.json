@@ -1,0 +1,15 @@
+{
+    "name" : "Pandora",
+    "str" : 43, 
+    "int" : 90,        
+    "wis": 86,
+    "dex" : 29,
+    "con" : 34,
+    "chr" : 48,
+    "race" : "Doppelganger",
+    "char_class" : "Mage",
+    "lvl" : 100,
+    "hp" : 81,
+    "spd" : 80,
+    "xp" : 4000
+}
